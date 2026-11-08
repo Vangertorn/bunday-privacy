@@ -1,1 +1,1 @@
-# notes-privacy
+# bunday-privacy
